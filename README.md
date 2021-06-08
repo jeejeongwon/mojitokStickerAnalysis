@@ -74,16 +74,4 @@
 위치 영향력과 스티커 선호도를 구분한 수치를 활용하면 먼저 **1.기존의 알고리즘을 유저 선호를 정밀하게 반영하도록 개선**할 수 있고  **2. 수치에 기반한 위치 영향력**을 역으로 이용하여 팔고 싶은, 홍보하고 싶은 스티커를 특정 위치에 배치할 수 있습니다. 또한 이후에 개선된 **3. 추천 시스템을 만드는  baseline을 확립**한다고 볼 수 있습니다.
 
 
- 
-## 9. How to Run
-
-### Data Crawling
- aaa.py
-### Preprocessing
-aaa.py
-### Implementation(EM Algorithm)
-
-### Test by Toy Dataset Modeling
-  
-
 
